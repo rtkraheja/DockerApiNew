@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sUxaLcygByekrZ1oWKMp069y74vvJ/oYwHfhO7FjyVe9S/TD1VEaAsUTbY2Ur9p+Fot7eMFu5JDbxjzPWHQ2fw==",
+  "success": true,
+  "projectFilePath": "E:\\MI\\me\\DockerWebApiNew-master\\DockerWebApi\\WebApiDockerProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ritik\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
